@@ -1,17 +1,19 @@
 
-// 1^2+2^2+3^2+........................+m^2 display the serise  and calculate in c 
+// 2^2+2^3+2^4+2^5........................+m^n display the serise  and calculate in c 
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
-    int m, i, sum=0;
+    int m, i;
+    double sum=0;
     printf("Enter a number: ");
     scanf("%d", &m);
-    for (i = 1; i <= m; i++) {
-        printf("%d^2 + ", i);
-        sum += i*i;
-        //sum+=pow(i,2);
+    for (i = 2; i <= m; i++) {
+        printf("%d^%d + ", m,i);
+        sum += pow(2,i);
     }
-    printf("\b\b = %d\n", sum);
+    printf("\b\b = %lf\n", sum);
     return 0;
+    
 }
