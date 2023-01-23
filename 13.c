@@ -1,4 +1,4 @@
-//calculates the total salary based on the condition given:
+//Calculates the total salary based on the condition given:
 // if salary < 20000 give 40% salary,if salary >= 20000 give 50% salary.
 #include <stdio.h>
 
