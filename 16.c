@@ -28,7 +28,6 @@ int main() {
 
 //Uses a do while loop to print "Ict" a certain number of times:
 
-#include <stdio.h>
 
 int main() {
     int n, i=1;
