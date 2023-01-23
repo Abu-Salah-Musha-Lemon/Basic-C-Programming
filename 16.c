@@ -28,7 +28,6 @@ int main() {
 
 //Uses a do while loop to print "Ict" a certain number of times:
 
-
 int main() {
     int n, i=1;
     printf("Enter the number of times you want to print 'Ict': ");
