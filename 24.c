@@ -1,3 +1,4 @@
+
 // 1*2*3*........................*m display the serise  and calculate in c
 
 #include <stdio.h>
