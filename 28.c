@@ -16,4 +16,5 @@ int main() {
     }
     printf(" summ \b\b = %d\n",  product);
     return 0;
+    
 }
