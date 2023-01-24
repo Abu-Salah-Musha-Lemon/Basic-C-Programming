@@ -1,5 +1,6 @@
 /*
-A quadratic function is a polynomial function of the form ax^2 + bx + c, where a, b and c are constants and x is the variable. The roots of a quadratic function are the values of x for which the function equals 0.
+A quadratic function is a polynomial function of the form ax^2 + bx + c, where a, b and c are constants and x is the variable. 
+The roots of a quadratic function are the values of x for which the function equals 0.
 
 The quadratic formula is used to find the roots of a quadratic function. The formula is:
 x = (-b ± √(b^2 - 4ac)) / 2a
