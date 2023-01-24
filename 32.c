@@ -10,6 +10,7 @@ Here is an example of a C program that uses the quadratic formula to find the ro
 
 */
 
+
 #include <stdio.h>
 #include <math.h>
 
